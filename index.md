@@ -76,9 +76,12 @@ sections:
 - type: contact
   template: contact
   title: Get in touch
-  text: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris,
-    eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum,
-    urna est aliquam sem, sit amet imperdiet est velit quis lorem.
+  text: |-
+    ### Интересно, правда?
+
+    #### Если у Вас остались вопросы, или Вы хотите уточнить расписание занятий и наличие вакансий в группах, ответы на вопросы вы можете найти на сайте, либо связавшись с нами.
+
+    ### Мы будем рады Вам!
   section_id: three
   background_style: style1
   contact_list:
@@ -88,9 +91,6 @@ sections:
       Nashville, TN 00000-0000
       USA
     url: ''
-  - title: Email
-    text: user@Hyperspace.tld
-    url: "#"
   - title: Phone
     text: "(000) 000-0000"
     url: ''
