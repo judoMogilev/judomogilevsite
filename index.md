@@ -2,7 +2,7 @@
 title: Home
 sidebar:
   entries:
-  - title: Welcome
+  - title: Главная
     url: "#intro"
     is_primary: true
   - title: Who we are
