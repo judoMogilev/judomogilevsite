@@ -2,6 +2,9 @@
 title: Home
 sidebar:
   entries:
+  - title: Контакты
+    url: ''
+    is_primary: false
   - title: Главная
     url: "#intro"
     is_primary: true
