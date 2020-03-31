@@ -84,10 +84,8 @@ sections:
   background_style: style1
   contact_list:
   - title: Телефоны
-    text: |-
-      +375 (29) 632-91-62
-      +375 (29) 638-64-58
-    url: ''
+    text: "+375 (29) 632-91-62"
+    url: "+375 (29) 632-91-62"
   - title: Адрес
     text: |-
       г. Могилев,
