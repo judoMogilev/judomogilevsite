@@ -15,7 +15,7 @@ sidebar:
     url: "#three"
     is_primary: false
   - title: Контакты
-    url: ''
+    url: "#three"
     is_primary: false
 sections:
 - type: intro
