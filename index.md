@@ -59,10 +59,9 @@ sections:
     text: Развивать у детей познавательные интересы, сенсорные и интеллектуальные
       способности
     icon: fa-award
-  - title: Urna quis bibendum
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-chain
+  - title: Творчество
+    text: Развивать воображение и творческое начало
+    icon: fa-icons
   - title: Aliquam urna dapibus
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
