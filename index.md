@@ -47,7 +47,7 @@ sections:
   - title: Здоровье
     text: Сохранить и укрепить здоровье детей, способствовать их физическому развитию,
       избегая нервных и физических перегрузок
-    icon: fa-code
+    icon: fa-heart
   - title: Aliquam sed nullam
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
