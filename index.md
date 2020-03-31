@@ -36,10 +36,11 @@ sections:
   component: spotlights.html
 - type: features
   template: features
-  title: What we do
-  subtitle: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit
-    bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.
+  title: Что мы делаем
+  subtitle: Мы проводим набор детей с 4-х лет. В тренировках используем игровой метод.
+    Напольное покрытие– татами (мягкое покрытие) на котором можно безболезненно кувыркаться,
+    ползать и падать. Для каждого возраста у нас разработана специальная программа
+    тренировок. Таким образом, мы обеспечиваем индивидуальный подход.
   section_id: two
   background_style: style3
   features_list:
