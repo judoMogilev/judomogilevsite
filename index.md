@@ -17,11 +17,11 @@ sidebar:
 sections:
 - type: intro
   template: intro
-  title: ШКОЛА ДЗЮДО
-  subtitle: "Дисциплина и самооборона.  \nГибкость и равновесие  \nСамосознание, концентрация
-    и внимательность."
+  title: Школа Дзюдо
+  subtitle: "> #### _Дисциплина и самооборона.  \n> Гибкость и равновесие  \n> Самосознание,
+    концентрация и внимательность._"
   section_id: intro
-  background_style: style1
+  background_style: style2
   actions:
   - label: О нас
     url: "#one"
