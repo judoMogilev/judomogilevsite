@@ -48,9 +48,9 @@ sections:
     text: Сохранить и укрепить здоровье детей, способствовать их физическому развитию,
       избегая нервных и физических перегрузок
     icon: fa-heart
-  - title: Aliquam sed nullam
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
+  - title: Поддержка
+    text: Внимательно относиться к формирующемуся детскому сообществу и терпеливо
+      поддерживать его.
     icon: fa-lock
   - title: Sed erat ullam corper
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
