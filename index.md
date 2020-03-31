@@ -8,7 +8,7 @@ sidebar:
   - title: О нас
     url: "#one"
     is_primary: false
-  - title: What we do
+  - title: Наши наставники
     url: "#two"
     is_primary: false
   - title: Get in touch
