@@ -2,9 +2,6 @@
 title: Home
 sidebar:
   entries:
-  - title: Контакты
-    url: ''
-    is_primary: false
   - title: Главная
     url: "#intro"
     is_primary: true
@@ -17,12 +14,15 @@ sidebar:
   - title: Медиатека
     url: "#three"
     is_primary: false
+  - title: Контакты
+    url: ''
+    is_primary: false
 sections:
 - type: intro
   template: intro
   title: Школа Дзюдо
-  subtitle: "> #### _Дисциплина и самооборона.  \n> Гибкость и равновесие  \n> Самосознание,
-    концентрация и внимательность._"
+  subtitle: "#### Дисциплина и самооборона.  \nГибкость и равновесие  \nСамосознание,
+    концентрация и внимательность."
   section_id: intro
   background_style: style2
   actions:
