@@ -55,10 +55,10 @@ sections:
   - title: Культура
     text: Формировать основы культурного поведения в природе и обществе
     icon: fa-yin-yang
-  - title: Veroeros quis lorem
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-desktop
+  - title: Развитие
+    text: Развивать у детей познавательные интересы, сенсорные и интеллектуальные
+      способности
+    icon: fa-award
   - title: Urna quis bibendum
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
