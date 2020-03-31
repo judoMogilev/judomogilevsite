@@ -83,12 +83,12 @@ sections:
   section_id: three
   background_style: style1
   contact_list:
-  - title: Address
+  - title: Адрес
     text: |-
-      12345 Somewhere Road #654
-      Nashville, TN 00000-0000
-      USA
-    url: ''
+      г. Могилев,
+      ул. Пионерская,
+      дом 24 "А"
+    url: https://yandex.by/maps/158/mogilev/house/Z0kYdQRpSUUOQFtpfXR4eH1hZg==/?ll=30.339009%2C53.899122&sll=30.330654%2C53.894548&sspn=0.493011%2C0.165675&z=17.03
   - title: Phone
     text: "(000) 000-0000"
     url: ''
