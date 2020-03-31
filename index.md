@@ -61,7 +61,7 @@ sections:
     icon: 'fa-graduation-cap '
   - title: Творчество
     text: Развивать воображение и творческое начало
-    icon: fa-icons
+    icon: fa-balance-scale
   - title: Aliquam urna dapibus
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
