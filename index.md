@@ -5,7 +5,7 @@ sidebar:
   - title: Главная
     url: "#intro"
     is_primary: true
-  - title: Who we are
+  - title: О нас
     url: "#one"
     is_primary: false
   - title: What we do
