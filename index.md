@@ -11,9 +11,6 @@ sidebar:
   - title: Общая информация
     url: "#two"
     is_primary: false
-  - title: Медиатека
-    url: "#three"
-    is_primary: false
   - title: Контакты
     url: "#three"
     is_primary: false
