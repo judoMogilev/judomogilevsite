@@ -52,10 +52,9 @@ sections:
     text: Внимательно относиться к формирующемуся детскому сообществу и терпеливо
       поддерживать его.
     icon: fa-hands-helping
-  - title: Sed erat ullam corper
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-cog
+  - title: Культура
+    text: Формировать основы культурного поведения в природе и обществе
+    icon: fa-yin-yang
   - title: Veroeros quis lorem
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
