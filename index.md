@@ -89,8 +89,10 @@ sections:
       ул. Пионерская,
       дом 24 "А"
     url: https://yandex.by/maps/158/mogilev/house/Z0kYdQRpSUUOQFtpfXR4eH1hZg==/?ll=30.339009%2C53.899122&sll=30.330654%2C53.894548&sspn=0.493011%2C0.165675&z=17.03
-  - title: Phone
-    text: "(000) 000-0000"
+  - title: Телефоны
+    text: |-
+      +375 (29) 632-91-62
+      +375 (29) 638-64-58
     url: ''
   social:
     title: Social
