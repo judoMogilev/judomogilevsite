@@ -83,6 +83,9 @@ sections:
   section_id: three
   background_style: style1
   contact_list:
+  - title: Телефон №2
+    text: "+375 (29) 638-64-58"
+    url: "+375 (29) 638-64-58"
   - title: Телефоны
     text: "+375 (29) 632-91-62"
     url: "+375 (29) 632-91-62"
