@@ -95,23 +95,8 @@ sections:
       +375 (29) 638-64-58
     url: ''
   social:
-    title: Social
-    social_icons:
-    - title: Twitter
-      icon: fa-twitter
-      url: "#"
-    - title: Facebook
-      icon: fa-facebook
-      url: "#"
-    - title: GitHub
-      icon: fa-github
-      url: "#"
-    - title: Instagram
-      icon: fa-instagram
-      url: "#"
-    - title: LinkedIn
-      icon: fa-linkedin
-      url: "#"
+    title: ''
+    social_icons: []
   component: contact.html
 layout: home
 menu:
