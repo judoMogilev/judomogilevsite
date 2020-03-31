@@ -81,13 +81,13 @@ sections:
 
     ### Мы будем рады Вам!
   section_id: three
-  background_style: style1
+  background_style: style2
   contact_list:
   - title: Телефоны
     text: |-
       +375 (29) 638-64-58
       +375 (29) 632-91-62
-    url: "+375 (29) 638-64-58"
+    url: ''
   - title: Адрес
     text: |-
       г. Могилев,
