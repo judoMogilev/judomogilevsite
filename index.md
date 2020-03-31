@@ -21,7 +21,7 @@ sections:
 - type: intro
   template: intro
   title: Школа Дзюдо
-  subtitle: "#### Дисциплина и самооборона.  \nГибкость и равновесие  \nСамосознание,
+  subtitle: "#### Дисциплина и самооборона.\n\nГибкость и равновесие   \nСамосознание,
     концентрация и внимательность."
   section_id: intro
   background_style: style2
