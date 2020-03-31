@@ -51,7 +51,7 @@ sections:
   - title: Поддержка
     text: Внимательно относиться к формирующемуся детскому сообществу и терпеливо
       поддерживать его.
-    icon: fa-lock
+    icon: fa-hands-helping
   - title: Sed erat ullam corper
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
